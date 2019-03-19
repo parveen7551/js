@@ -1,0 +1,25 @@
+{
+  "name": "js-practice",
+  "version": "1.0.0",
+  "description": "JS Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parveen7551/js.git"
+  },
+  "keywords": [
+    "JS"
+  ],
+  "author": "Parveen Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parveen7551/js/issues"
+  },
+  "homepage": "https://github.com/parveen7551/js#readme",
+  "dependencies": {
+    "stream-adventure": "^4.1.1"
+  }
+}
